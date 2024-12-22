@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Server Informationen</title>
+</head>
+<body>
+    <header>
+        <h1>Willkommen auf meinem Minecraft Server</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Server-Informationen</h2>
+            <p>Um meinem Minecraft-Server beizutreten, folge diesen einfachen Schritten:</p>
+            
+            <h3>Für Minecraft Java Edition:</h3>
+            <ul>
+                <li>Starte Minecraft und gehe zum Menü "Mehrspieler".</li>
+                <li>Klicke auf "Server hinzufügen".</li>
+                <li>Gib einen Servernamen ein (z.B. "Raffaels Server").</li>
+                <li>Gib die IP-Adresse des Servers ein: <strong>raffaelbauer.exaroton.me</strong></li>
+                <li>Der Port bleibt auf der Standard-Einstellung (es muss nichts verändert werden).</li>
+                <li>Klicke auf "Fertig" und dann auf "Server beitreten".</li>
+            </ul>
+
+            <h3>Für Minecraft Bedrock Edition:</h3>
+            <ul>
+                <li>Starte Minecraft und gehe zum Menü "Spielen".</li>
+                <li>Klicke auf "Server" und dann auf "Server hinzufügen".</li>
+                <li>Gib einen Servernamen ein (z.B. "Raffaels Server").</li>
+                <li>Gib die IP-Adresse des Servers ein: <strong>raffaelbauer.exaroton.me</strong></li>
+                <li>Gib den Port ein: <strong>30450</strong></li>
+                <li>Klicke auf "Spielen", um dem Server beizutreten.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Wichtige Server-Regeln</h2>
+            <ul>
+                <li><strong>Grundstücke:</strong> Grundstücke müssen mit Schildern markiert werden. Der Abstand der Schilder darf nicht zu groß sein, und die Größe des Grundstücks ist frei wählbar, jedoch sollte es nicht übertrieben groß sein.</li>
+                <li><strong>Strukturen:</strong> Strukturen dürfen nicht zerstört werden. Feindliche Kreaturen dürfen jedoch innerhalb der Struktur eliminiert werden. Kisten dürfen geleert und wertvolle Blöcke abgebaut werden.</li>
+                <li><strong>Bäume:</strong> Bäume müssen immer vollständig abgebaut werden. Auf deinem eigenen Grundstück kannst du tun, was du möchtest.</li>
+                <li><strong>Verbotene Tools:</strong> Das Verwenden von X-Ray und ähnlichen Cheats ist streng verboten.</li>
+                <li><strong>Strafen:</strong> Wer gegen die Regeln verstößt, wird ohne Warnung permanent vom Server gebannt.</li>
+            </ul>
+            <p>Bitte halte dich an diese Regeln, um eine angenehme Spielerfahrung für alle zu gewährleisten!</p>
+        </section>
+
+        <section>
+            <h2>Für Minecraft-Anfänger</h2>
+            <p>Falls du neu in Minecraft bist, hier einige grundlegende Tipps, um das Spiel besser zu verstehen:</p>
+            <ul>
+                <li>Minecraft ist ein Sandbox-Spiel, das bedeutet, du kannst alles bauen, abbauen und gestalten, was du möchtest.</li>
+                <li>Es gibt verschiedene Spielmodi: Überleben, Kreativ und Abenteuer. Mein Server läuft im Überlebensmodus, was bedeutet, dass du Ressourcen sammeln, bauen und dich vor feindlichen Kreaturen schützen musst.</li>
+                <li>Du solltest in der ersten Nacht ein einfaches Haus bauen, um dich vor feindlichen Kreaturen wie Zombies oder Skeletten zu schützen.</li>
+                <li>Besorge dir Ressourcen wie Holz, Stein und Eisen, um Werkzeuge und Waffen zu craften.</li>
+            </ul>
+            <p>Für eine detaillierte Anleitung, schau dir dieses YouTube-Tutorial an: <a href="https://youtu.be/NPjnNQf0LDA?feature=shared" target="_blank">Minecraft Server Tutorial für PC</a>.</p>
+        </section>
+
+        <section>
+            <p>Viel Spaß beim Spielen und viel Erfolg auf dem Server!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Raffael Bauer. Alle Rechte vorbehalten.</p>
+        <p>
+            <a href="https://raffaelbauer.github.io/Impressum/">Impressum</a> 
+            | 
+            <a href="https://raffaelbauer.github.io/Datenschutzbestimmungen/">Datenschutzbestimmungen</a>
+        </p>
+    </footer>
+</body>
+</html>
